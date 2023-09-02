@@ -1,0 +1,8 @@
+//write a java program without using semicolon
+class test
+{
+  public static void main(String ar[])
+  {
+    if(System.out.println("WELCOME"))
+  }
+}
